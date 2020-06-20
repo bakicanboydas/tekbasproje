@@ -1,0 +1,322 @@
+[
+ {
+   "id": 1,
+   "animal_name": "Fairy penguin"
+ },
+ {
+   "id": 2,
+   "animal_name": "Red-winged blackbird"
+ },
+ {
+   "id": 3,
+   "animal_name": "White-nosed coatimundi"
+ },
+ {
+   "id": 4,
+   "animal_name": "Kirk's dik dik"
+ },
+ {
+   "id": 5,
+   "animal_name": "Spurfowl, yellow-necked"
+ },
+ {
+   "id": 6,
+   "animal_name": "Eastern dwarf mongoose"
+ },
+ {
+   "id": 7,
+   "animal_name": "Wambenger, red-tailed"
+ },
+ {
+   "id": 8,
+   "animal_name": "Tailless tenrec"
+ },
+ {
+   "id": 9,
+   "animal_name": "Sportive lemur"
+ },
+ {
+   "id": 10,
+   "animal_name": "Squirrel, indian giant"
+ },
+ {
+   "id": 11,
+   "animal_name": "Bushbaby, large-eared"
+ },
+ {
+   "id": 12,
+   "animal_name": "Squirrel, indian giant"
+ },
+ {
+   "id": 13,
+   "animal_name": "Pheasant, ring-necked"
+ },
+ {
+   "id": 14,
+   "animal_name": "Vulture, black"
+ },
+ {
+   "id": 15,
+   "animal_name": "King vulture"
+ },
+ {
+   "id": 16,
+   "animal_name": "Brindled gnu"
+ },
+ {
+   "id": 17,
+   "animal_name": "Anteater, australian spiny"
+ },
+ {
+   "id": 18,
+   "animal_name": "Horned puffin"
+ },
+ {
+   "id": 19,
+   "animal_name": "Squirrel, richardson's ground"
+ },
+ {
+   "id": 20,
+   "animal_name": "Seal, northern fur"
+ },
+ {
+   "id": 21,
+   "animal_name": "Lemur, brown"
+ },
+ {
+   "id": 22,
+   "animal_name": "Tailless tenrec"
+ },
+ {
+   "id": 23,
+   "animal_name": "Deer, mule"
+ },
+ {
+   "id": 24,
+   "animal_name": "Collared lemming"
+ },
+ {
+   "id": 25,
+   "animal_name": "Eurasian hoopoe"
+ },
+ {
+   "id": 26,
+   "animal_name": "Small Indian mongoose"
+ },
+ {
+   "id": 27,
+   "animal_name": "Bleeding heart monkey"
+ },
+ {
+   "id": 28,
+   "animal_name": "Grizzly bear"
+ },
+ {
+   "id": 29,
+   "animal_name": "Dragon, komodo"
+ },
+ {
+   "id": 30,
+   "animal_name": "Weaver, white-browed sparrow"
+ },
+ {
+   "id": 31,
+   "animal_name": "Francolin, swainson's"
+ },
+ {
+   "id": 32,
+   "animal_name": "Jackal, asiatic"
+ },
+ {
+   "id": 33,
+   "animal_name": "Ring-tailed coatimundi"
+ },
+ {
+   "id": 34,
+   "animal_name": "Kaffir cat"
+ },
+ {
+   "id": 35,
+   "animal_name": "Grebe, little"
+ },
+ {
+   "id": 36,
+   "animal_name": "Platypus"
+ },
+ {
+   "id": 37,
+   "animal_name": "Tamandua, southern"
+ },
+ {
+   "id": 38,
+   "animal_name": "Snake, eastern indigo"
+ },
+ {
+   "id": 39,
+   "animal_name": "Grey fox"
+ },
+ {
+   "id": 40,
+   "animal_name": "Black spider monkey"
+ },
+ {
+   "id": 41,
+   "animal_name": "Monkey, vervet"
+ },
+ {
+   "id": 42,
+   "animal_name": "Serval"
+ },
+ {
+   "id": 43,
+   "animal_name": "Long-finned pilot whale"
+ },
+ {
+   "id": 44,
+   "animal_name": "Hoary marmot"
+ },
+ {
+   "id": 45,
+   "animal_name": "Wallaby, dama"
+ },
+ {
+   "id": 46,
+   "animal_name": "Meerkat"
+ },
+ {
+   "id": 47,
+   "animal_name": "Greater blue-eared starling"
+ },
+ {
+   "id": 48,
+   "animal_name": "Arctic lemming"
+ },
+ {
+   "id": 49,
+   "animal_name": "Wallaby, tammar"
+ },
+ {
+   "id": 50,
+   "animal_name": "Trumpeter swan"
+ },
+ {
+   "id": 51,
+   "animal_name": "Grison"
+ },
+ {
+   "id": 52,
+   "animal_name": "Ferret, black-footed"
+ },
+ {
+   "id": 53,
+   "animal_name": "Hornbill, leadbeateri's ground"
+ },
+ {
+   "id": 54,
+   "animal_name": "Wolf, timber"
+ },
+ {
+   "id": 55,
+   "animal_name": "Pied butcher bird"
+ },
+ {
+   "id": 56,
+   "animal_name": "Australian pelican"
+ },
+ {
+   "id": 57,
+   "animal_name": "Egyptian viper"
+ },
+ {
+   "id": 58,
+   "animal_name": "Cardinal, black-throated"
+ },
+ {
+   "id": 59,
+   "animal_name": "Wild boar"
+ },
+ {
+   "id": 60,
+   "animal_name": "Black-necked stork"
+ },
+ {
+   "id": 61,
+   "animal_name": "Screamer, southern"
+ },
+ {
+   "id": 62,
+   "animal_name": "Hartebeest, red"
+ },
+ {
+   "id": 63,
+   "animal_name": "Small-clawed otter"
+ },
+ {
+   "id": 64,
+   "animal_name": "Turtle, snake-necked"
+ },
+ {
+   "id": 65,
+   "animal_name": "Jackal, silver-backed"
+ },
+ {
+   "id": 66,
+   "animal_name": "African skink"
+ },
+ {
+   "id": 67,
+   "animal_name": "Mourning collared dove"
+ },
+ {
+   "id": 68,
+   "animal_name": "Civet cat"
+ },
+ {
+   "id": 69,
+   "animal_name": "Iguana, common green"
+ },
+ {
+   "id": 70,
+   "animal_name": "Eagle, golden"
+ },
+ {
+   "id": 71,
+   "animal_name": "Sloth, pale-throated three-toed"
+ },
+ {
+   "id": 72,
+   "animal_name": "Gray duiker"
+ },
+ {
+   "id": 73,
+   "animal_name": "White-nosed coatimundi"
+ },
+ {
+   "id": 74,
+   "animal_name": "Civet, small-toothed palm"
+ },
+ {
+   "id": 75,
+   "animal_name": "Pheasant, common"
+ },
+ {
+   "id": 76,
+   "animal_name": "Squirrel, african bush"
+ },
+ {
+   "id": 77,
+   "animal_name": "Greater roadrunner"
+ },
+ {
+   "id": 78,
+   "animal_name": "Kafue flats lechwe"
+ },
+ {
+   "id": 79,
+   "animal_name": "South American meadowlark (unidentified)"
+ },
+ {
+   "id": 80,
+   "animal_name": "Wallaby, agile"
+ }
+]
